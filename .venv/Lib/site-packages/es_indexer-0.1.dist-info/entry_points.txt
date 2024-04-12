@@ -1,0 +1,3 @@
+[console_scripts]
+es-indexer = es_indexer.main:main
+
